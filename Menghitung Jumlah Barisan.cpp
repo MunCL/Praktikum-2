@@ -1,3 +1,6 @@
+/*Praktikum 3 Menghitung Deret*/
+/*Muniroh 20051397017*/
+
 #include <iostream>
 #include <math.h>
 using namespace std;
