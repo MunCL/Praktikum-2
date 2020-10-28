@@ -1,4 +1,4 @@
-/*Praktikum 3 Menghitung Deret*/
+/*Praktikum 3 Menghitung Jumlah Barisan*/
 /*Muniroh 20051397017*/
 
 #include <iostream>
