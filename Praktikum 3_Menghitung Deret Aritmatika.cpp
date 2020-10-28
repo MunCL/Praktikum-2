@@ -10,7 +10,7 @@ int main() {
 	baris = 3;
 	deret = 0;
 	cout<<endl;
-
+	
 	cout<<"====================== Program Menghitung Deret ======================"<<endl;
 	cout<<endl;
 	cout<<"Masukkan Banyak Suku : ";cin>>suku;
