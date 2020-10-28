@@ -18,7 +18,7 @@ main(){
 	cout<<setw(5)<<"*";
 	
 	for (j=1;j<=10;j++)
-	cout<<setw(5)<<"*";
+	cout<<setw(5)<<j*i;
 	cout<<endl;
 
 }
